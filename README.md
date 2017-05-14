@@ -3,5 +3,6 @@
       Changelog:     
       
       <framework src="com.google.android.gms:play-services-ads:9+" />
-to:
-      <framework src="com.google.android.gms:play-services-ads:+" /
+      to:
+      <framework src="com.google.android.gms:play-services-ads:+" />
+
