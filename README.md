@@ -13,7 +13,7 @@ https://github.com/appodeal/Appodeal-PhoneGap-plugin
 
 Simply go to the project folder over console/terminal and run there following command:
 
-    cordova plugin add https://github.com/appodeal/appodeal-cordova-nodex-plugin.git  
+    cordova plugin add https://github.com/Hartbloom/appodeal.git  
      
 This is a modification to the plugin.xml that allows appodeal to be used in conjunction 
 with Cranberrygames Google Play Services, found here:
