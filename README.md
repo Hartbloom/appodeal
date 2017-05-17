@@ -18,7 +18,7 @@ https://github.com/cranberrygame/cordova-plugin-game
       
 Changelog:     
       
-<framework src="com.google.android.gms:play-services-ads:9+" />
-to:
-<framework src="com.google.android.gms:play-services-ads:+" />
+    <framework src="com.google.android.gms:play-services-ads:9+" />
+    to:
+    <framework src="com.google.android.gms:play-services-ads:+" />
 
